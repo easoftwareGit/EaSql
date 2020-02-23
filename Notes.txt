@@ -1,0 +1,5 @@
+﻿The solution has generic code for SQL transactions, NOT database/provider specific code - Sql.vb
+ALso incluided are SLQ specific error codes - Ea.vb
+
+Required DLL's 
+	EaTools.DLL
